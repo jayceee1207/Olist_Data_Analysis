@@ -52,6 +52,6 @@ To ensure high dashboard performance, a two-step approach was utilized:
 
 ## 👨‍💻 Author
 **John Carlo Ablay**
-* **Role:** Aspiring Data Analyst
-* **LinkedIn:** [Insert your LinkedIn URL here]
-* **Portfolio:** [Insert your Portfolio URL here]
+* **Role:** Data Analyst
+* **LinkedIn:** https://www.linkedin.com/in/john-carlo-ablay-80462b3b8/
+* **Portfolio:** https://www.datascienceportfol.io/ablayjohncarlorobin2
