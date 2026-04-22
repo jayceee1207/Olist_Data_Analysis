@@ -1,4 +1,4 @@
-# Olist_Data_Analysis
+<img width="927" height="563" alt="Screenshot 2026-04-22 at 8 31 40 AM" src="https://github.com/user-attachments/assets/f8c86e0f-635e-4071-8548-9722effcd632" /># Olist_Data_Analysis
 An end-to-end data analysis of the Olist E-Commerce dataset using SQL for data extraction and Power BI for interactive visualization, focusing on sales trends, logistical bottlenecks, and customer satisfaction.
 
 
@@ -9,8 +9,11 @@ This project is an end-to-end data analysis of the **Brazilian E-Commerce Public
 
 The analysis is broken down into three core business pillars:
 1. **Sales Performance:** Evaluating revenue trends and category profitability.
+   <img width="945" height="560" alt="Screenshot 2026-04-22 at 8 30 40 AM" src="https://github.com/user-attachments/assets/357dcfb7-70fe-4c36-885f-ad20a5e327d8" />
 2. **Logistical Efficiency:** Identifying geographical bottlenecks and SLA compliance.
+   <img width="937" height="571" alt="Screenshot 2026-04-22 at 8 31 12 AM" src="https://github.com/user-attachments/assets/b360e4aa-f017-49f3-85b6-4c1c0baa75f0" />
 3. **Customer Behavior:** Determining the critical factors that influence customer satisfaction and review scores.
+   <img width="917" height="567" alt="Screenshot 2026-04-22 at 8 31 57 AM" src="https://github.com/user-attachments/assets/b2d1ede0-7932-4491-8814-e7894c958c19" />
 
 ## 🛠️ Tech Stack
 * **Database Management:** MS SQL Server (SSMS)
