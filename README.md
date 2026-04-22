@@ -1,4 +1,4 @@
-<img width="927" height="563" alt="Screenshot 2026-04-22 at 8 31 40 AM" src="https://github.com/user-attachments/assets/f8c86e0f-635e-4071-8548-9722effcd632" /># Olist_Data_Analysis
+# Olist_Data_Analysis
 An end-to-end data analysis of the Olist E-Commerce dataset using SQL for data extraction and Power BI for interactive visualization, focusing on sales trends, logistical bottlenecks, and customer satisfaction.
 
 
